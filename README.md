@@ -24,6 +24,8 @@ User stories.
 > I want to subscribe to the newsletter,
 > So that I can receive email updates when new content is published on the blog;
 
+Implement API endpoint `POST /subscriptions`
+
 ### User Story 2
 
 > As a blog visitor,
