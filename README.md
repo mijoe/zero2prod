@@ -31,3 +31,7 @@ Implement API endpoint `POST /subscriptions`
 > As a blog visitor,
 > I want to subscribe to the newsletter,
 > So that I can receive email updates when new content is published on the blog;
+
+## Chapter 3
+
+Implement API endpoint `GET /health_check` which return 200 if server is running and writing tests for that endpoint.
